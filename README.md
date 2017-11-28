@@ -8,4 +8,7 @@ The below algorithms were built:
 * Naive Bayes
 * Ensemble (Hard Vote)
 
-The following options:
+Other features include:
+* SVD dimensionality reduction
+* Training using 90/10 hold out
+* Evaluation with confusion matrix metrics
